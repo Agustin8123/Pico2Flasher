@@ -1,8 +1,8 @@
 ![PicoFlasher logo](https://raw.githubusercontent.com/X360Tools/PicoFlasher/master/picoflasher.png)
 
-# PicoFlasher
+# Pico2Flasher
 
-Open source XBOX 360 NAND flasher firmware for Raspberry Pi Pico
+Open source XBOX 360 NAND flasher firmware for Raspberry Pi Pico 2
 
 ## Wiring:
 
